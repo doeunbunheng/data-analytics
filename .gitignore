@@ -1,0 +1,6 @@
+# Data files (raw + cleaned) - do NOT commit
+*.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+__pycache__/
